@@ -1,6 +1,6 @@
 /*
    The Most Thoroughly Commented Linker Script in The World
-
+   just a fork
    This is a linker script for the Atmel/Microchip SAM D21
    with an absolutely obscene amount of documentation.
 */
